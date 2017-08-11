@@ -1,7 +1,7 @@
 +++
 # About/Biography widget.
 
-date = "2016-04-20T00:00:00"
+date = "2017-08-11T00:00:00"
 draft = false
 
 widget = "about"
@@ -12,31 +12,31 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Reproducible Research",
+    "R programming",
+    "Pattern Recognition"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Chemometrics/Analytical Chemistry"
+  institution = "University of South Carolina"
+  year = 1994
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MS in Statistics [Experimental Design]"
+  institution = "University of South Carolina"
+  year = 1995
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BS Dual Major Chemistry/Math"
+  institution = "Saint Andrews Presbyterian College"
+  year = 1989
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Melinda Higgins is a senior biostatistician and associate research professor in the Office of Nursing Research - School of Nursing - Emory University in Atlanta, GA since 2007. Prior to that she was a Principal Research Scientist at the Georgia Tech Research Institute and was the senior program manager for the $50M+ National Guard Technology Consortium. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+She has over 24+ years experience performing and managing research in wide-ranging applications including aircraft sensor systems, knowledge decision support systems, geospatial information systems, sensors and image fusion, target recognition, bio-behavioral phenotype characterization and modeling, and varied statistical analyses and support for health improvement clinical trials.

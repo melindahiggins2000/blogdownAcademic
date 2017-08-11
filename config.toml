@@ -21,8 +21,8 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Melinda Higgins, Ph.D"
-  role = "Senior Biostatistician; Associate Research Professor"
-  organization = "Emory University; School of Nursing; Office of Nursing Research"
+  role = "Associate Research Professor"
+  organization = "Emory University"
   organization_url = ""
   avatar = "me_crop_sm.jpg"
   email = "melinda.higgins@emory.edu"

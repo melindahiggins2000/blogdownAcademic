@@ -9,23 +9,5 @@
     <copyright>&amp;copy; 2017 Melinda Higgins</copyright>
     <atom:link href="/blogdownAcademic/categories/" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>Hugo</title>
-      <link>https://melindahiggins2000.github.io/blogdownAcademic/categories/hugo/</link>
-      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://melindahiggins2000.github.io/blogdownAcademic/categories/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>https://melindahiggins2000.github.io/blogdownAcademic/categories/r/</link>
-      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://melindahiggins2000.github.io/blogdownAcademic/categories/r/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

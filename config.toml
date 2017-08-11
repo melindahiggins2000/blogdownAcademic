@@ -1,7 +1,7 @@
 publishDir = "docs"
 baseurl = "https://melindahiggins2000.github.io/blogdownAcademic/"
 title = "Academic"
-copyright = "&copy; 2016 Your Name"
+copyright = "&copy; 2017 Melinda Higgins"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -21,7 +21,8 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Melinda Higgins, Ph.D"
-  role = "Senior Biostatistician<br> Associate Research Professor"
+  role = "Senior Biostatistician
+  Associate Research Professor"
   organization = "Emory University<br> School of Nursing<br> Office of Nursing Research"
   organization_url = ""
   avatar = "me_crop_sm.jpg"

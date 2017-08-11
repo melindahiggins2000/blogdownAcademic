@@ -28,8 +28,8 @@
   <link rel="stylesheet" href="/blogdownAcademic/css/hugo-academic.css">
   
 
-  <link rel="alternate" href="https://melindahiggins2000.github.io/blogdownAcademic/index.xml" type="application/rss+xml" title="Academic">
-  <link rel="feed" href="https://melindahiggins2000.github.io/blogdownAcademic/index.xml" type="application/rss+xml" title="Academic">
+  <link rel="alternate" href="/blogdownAcademic/index.xml" type="application/rss+xml" title="Academic">
+  <link rel="feed" href="/blogdownAcademic/index.xml" type="application/rss+xml" title="Academic">
 
   <link rel="icon" type="image/png" href="/blogdownAcademic/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/blogdownAcademic/img/apple-touch-icon.png">
@@ -152,50 +152,50 @@
   <h2>Recent Posts</h2>
   
   <ul>
-    <li><a href="https://melindahiggins2000.github.io/blogdownAcademic/post/mkh-new-post-added/">MKH New Post Added</a></li>
+    <li><a href="/blogdownAcademic/post/mkh-new-post-added/">MKH New Post Added</a></li>
   </ul>
   
   <ul>
-    <li><a href="https://melindahiggins2000.github.io/blogdownAcademic/post/">Posts</a></li>
+    <li><a href="/blogdownAcademic/post/">Posts</a></li>
   </ul>
   
   <ul>
-    <li><a href="https://melindahiggins2000.github.io/blogdownAcademic/post/getting-started/">Getting started with the Academic framework for Hugo</a></li>
+    <li><a href="/blogdownAcademic/post/getting-started/">Getting started with the Academic framework for Hugo</a></li>
   </ul>
   
   <ul>
-    <li><a href="https://melindahiggins2000.github.io/blogdownAcademic/post/widgets/">Customizing the homepage with widgets</a></li>
+    <li><a href="/blogdownAcademic/post/widgets/">Customizing the homepage with widgets</a></li>
   </ul>
   
   <ul>
-    <li><a href="https://melindahiggins2000.github.io/blogdownAcademic/post/managing-content/">Managing content</a></li>
+    <li><a href="/blogdownAcademic/post/managing-content/">Managing content</a></li>
   </ul>
   
   <ul>
-    <li><a href="https://melindahiggins2000.github.io/blogdownAcademic/post/writing-markdown-latex/">Writing content with Markdown, LaTeX, and Shortcodes</a></li>
+    <li><a href="/blogdownAcademic/post/writing-markdown-latex/">Writing content with Markdown, LaTeX, and Shortcodes</a></li>
   </ul>
   
   <ul>
-    <li><a href="https://melindahiggins2000.github.io/blogdownAcademic/post/2015-07-23-r-rmarkdown/">Hello R Markdown</a></li>
+    <li><a href="/blogdownAcademic/post/2015-07-23-r-rmarkdown/">Hello R Markdown</a></li>
   </ul>
   
   <ul>
-    <li><a href="https://melindahiggins2000.github.io/blogdownAcademic/post/migrate-from-jekyll/">Migrate from Jekyll to Hugo</a></li>
+    <li><a href="/blogdownAcademic/post/migrate-from-jekyll/">Migrate from Jekyll to Hugo</a></li>
   </ul>
   
 
   <h2>Recent Publications</h2>
   
   <ul>
-    <li><a href="https://melindahiggins2000.github.io/blogdownAcademic/publication/">Publications</a></li>
+    <li><a href="/blogdownAcademic/publication/">Publications</a></li>
   </ul>
   
   <ul>
-    <li><a href="https://melindahiggins2000.github.io/blogdownAcademic/publication/person-re-identification/">A Person Re-Identification System For Mobile Devices</a></li>
+    <li><a href="/blogdownAcademic/publication/person-re-identification/">A Person Re-Identification System For Mobile Devices</a></li>
   </ul>
   
   <ul>
-    <li><a href="https://melindahiggins2000.github.io/blogdownAcademic/publication/clothing-search/">Mobile visual clothing search</a></li>
+    <li><a href="/blogdownAcademic/publication/clothing-search/">Mobile visual clothing search</a></li>
   </ul>
   
 
@@ -230,6 +230,26 @@
     <script src="/blogdownAcademic/js/hugo-academic.js"></script>
     
 
+    
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-104463786-1', 'auto');
+        ga('send', 'pageview');
+
+         
+        var links = document.querySelectorAll('a');
+        Array.prototype.map.call(links, function(item) {
+            if (item.host != document.location.host) {
+                item.addEventListener('click', function() {
+                    var action = item.getAttribute('data-action') || 'follow';
+                    ga('send', 'event', 'outbound', action, item.href);
+                });
+            }
+        });
+    </script>
     
 
     

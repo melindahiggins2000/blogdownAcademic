@@ -1,5 +1,6 @@
 publishDir = "docs"
-baseurl = "https://melindahiggins2000.github.io/blogdownAcademic/"
+baseurl = "http://melindahiggins.netlify.com/"
+# baseurl = "https://melindahiggins2000.github.io/blogdownAcademic/"
 title = "Melinda Higgins, Ph.D"
 copyright = "&copy; 2017 Melinda Higgins"
 theme = "hugo-academic"

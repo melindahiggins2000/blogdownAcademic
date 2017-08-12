@@ -37,6 +37,6 @@ weight = 1
 
 # Biography
 
-Melinda Higgins is a senior biostatistician and associate research professor in the Office of Nursing Research - School of Nursing - Emory University in Atlanta, GA (2007-current). Prior to that she was a Principal Research Scientist at the Georgia Tech Research Institute (1996-2011) and was the Program Manager for the $50M+ National Guard Bureau Technology Consortium (1998-2009). 
+Melinda Higgins is a senior biostatistician and associate research professor in the Office of Nursing Research - School of Nursing - Emory University in Atlanta, GA (2007-current). Prior to that she was a Principal Research Scientist at the Georgia Tech Research Institute (1996-2011) and Program Manager for the $17M National Guard Bureau Technology Consortium. 
 
-She has over 24+ years experience performing and managing research in wide-ranging applications including aircraft sensor systems, knowledge decision support systems, geospatial information systems, sensors and image fusion, target recognition, bio-behavioral phenotype characterization and modeling, and varied statistical analyses and support for health improvement clinical trials.
+She has over 24+ years experience performing and managing research in wide-ranging applications including aircraft sensor systems, remote sensing, multispectral/hyperspectral processing, signatures intelligence, knowledge decision support systems, geospatial information systems, sensors and image fusion, target recognition, bio-behavioral phenotype characterization and modeling, and statistical support for clinical trials.

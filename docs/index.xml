@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Melinda Higgins, Ph.D on Melinda Higgins, Ph.D</title>
-    <link>https://melindahiggins2000.github.io/blogdownAcademic/</link>
+    <link>http://melindahiggins.netlify.com/</link>
     <description>Recent content in Melinda Higgins, Ph.D on Melinda Higgins, Ph.D</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Melinda Higgins</copyright>
     <lastBuildDate>Fri, 11 Aug 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/blogdownAcademic/" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

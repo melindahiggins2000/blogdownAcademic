@@ -1,0 +1,23 @@
+---
+title: MKH New Post Added
+author: Melinda Higgins
+date: '2017-05-08'
+slug: mkh-new-post-added
+categories:
+  - hugo
+  - R
+tags:
+  - hugo
+  - R Markdown
+---
+
+let's add some content here
+
+## hello world
+
+```{r}
+x <- seq(from=1, to=10, by=0.1)
+y <- sqrt(x)
+plot(x,y)
+```
+

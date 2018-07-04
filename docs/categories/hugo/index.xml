@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Melinda Higgins, Ph.D</title>
+    <link>http://melindahiggins.netlify.com/categories/hugo/</link>
+    <description>Recent content in Hugo on Melinda Higgins, Ph.D</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Melinda Higgins</copyright>
+    <lastBuildDate>Mon, 08 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://melindahiggins.netlify.com/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MKH New Post Added</title>
+      <link>http://melindahiggins.netlify.com/post/mkh-new-post-added/</link>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://melindahiggins.netlify.com/post/mkh-new-post-added/</guid>
+      <description>let’s add some content here
+hello worldx &amp;lt;- seq(from=1, to=10, by=0.1)y &amp;lt;- sqrt(x)plot(x,y)</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -8,7 +8,84 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Melinda Higgins</copyright>
     <lastBuildDate>Fri, 11 Aug 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://melindahiggins.netlify.com/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://melindahiggins.netlify.com/home/about/</link>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://melindahiggins.netlify.com/home/about/</guid>
+      <description>Biography Melinda Higgins is a senior biostatistician and associate research professor in the Office of Nursing Research - School of Nursing - Emory University in Atlanta, GA (2007-current). Prior to that she was a Principal Research Scientist at the Georgia Tech Research Institute (1996-2011) and Program Manager for the $17M National Guard Bureau Technology Consortium.
+She has over 24+ years experience performing and managing research in wide-ranging applications including aircraft sensor systems, remote sensing, multispectral/hyperspectral processing, signatures intelligence, knowledge decision support systems, geospatial information systems, sensors and image fusion, target recognition, bio-behavioral phenotype characterization and modeling, and statistical support for clinical trials.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>http://melindahiggins.netlify.com/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://melindahiggins.netlify.com/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>http://melindahiggins.netlify.com/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://melindahiggins.netlify.com/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>http://melindahiggins.netlify.com/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://melindahiggins.netlify.com/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>http://melindahiggins.netlify.com/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://melindahiggins.netlify.com/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://melindahiggins.netlify.com/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://melindahiggins.netlify.com/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://melindahiggins.netlify.com/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://melindahiggins.netlify.com/home/teaching/</guid>
+      <description>This is an example of using the custom widget to create your own homepage section.
+I am a teaching instructor for the following courses at University X:
+ CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://melindahiggins.netlify.com/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://melindahiggins.netlify.com/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

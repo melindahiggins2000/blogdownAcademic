@@ -1,7 +1,7 @@
 +++
 # About/Biography widget.
 
-date = "2017-08-11T00:00:00"
+date = "2018-07-06T00:00:00"
 draft = false
 
 widget = "about"
@@ -13,8 +13,10 @@ weight = 1
 [interests]
   interests = [
     "Reproducible Research",
+    "Dynamic Documentation",
     "R programming",
-    "Pattern Recognition"
+    "Pattern Recognition",
+    "Multivariate Statistical Modeling"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -37,6 +39,6 @@ weight = 1
 
 # Biography
 
-Melinda Higgins is a senior biostatistician and associate research professor in the Office of Nursing Research - School of Nursing - Emory University in Atlanta, GA (2007-current). Prior to that she was a Principal Research Scientist at the Georgia Tech Research Institute (1996-2011) and Program Manager for the $17M National Guard Bureau Technology Consortium. 
+Melinda Higgins is the author/creator of the Coursera Course [Reproducible Templates for Analysis and Dissemination](https://www.coursera.org/learn/reproducible-templates-analysis). She is a [senior biostatistician and associate research professor](http://nursing.emory.edu/faculty-and-research/directory/profile.html?id=980) in the Office of Nursing Research - School of Nursing - Emory University in Atlanta, GA (2007-current). Prior to that she was a Principal Research Scientist at the Georgia Tech Research Institute (1996-2011) and Program Manager for the $17M National Guard Bureau Technology Consortium. 
 
 She has over 24+ years experience performing and managing research in wide-ranging applications including aircraft sensor systems, remote sensing, multispectral/hyperspectral processing, signatures intelligence, knowledge decision support systems, geospatial information systems, sensors and image fusion, target recognition, bio-behavioral phenotype characterization and modeling, and statistical support for clinical trials.

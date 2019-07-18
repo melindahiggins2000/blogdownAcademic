@@ -10,5 +10,20 @@
     <lastBuildDate>Fri, 06 Jul 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Test Post </title>
+      <link>/post/test-post/</link>
+      <pubDate>Sun, 02 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/test-post/</guid>
+      <description>&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;./post/2018-09-02-test-post_files/sunstar.png&#34; alt=&#34;sunstar&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;sunstar&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;here is a test post for a blog&lt;/p&gt;
+&lt;p&gt;today&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

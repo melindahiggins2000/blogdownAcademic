@@ -1,6 +1,7 @@
 publishDir = "docs"
 baseurl = "http://melindahiggins.netlify.com/"
 # baseurl = "https://melindahiggins2000.github.io/blogdownAcademic/"
+relativeurls = true
 title = "Melinda Higgins, Ph.D"
 copyright = "&copy; 2018 Melinda Higgins"
 theme = "hugo-academic"
@@ -135,7 +136,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/mhiggins2000"
+    link = "https://twitter.com/mhiggins2000"
 
   [[params.social]]
     icon = "google-scholar"
@@ -145,8 +146,12 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/melindahiggins2000"
+    link = "https://github.com/melindahiggins2000"
 
+  [[params.social]]
+    icon = "linkedin-square"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/melindahiggins2000/"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -157,11 +162,16 @@ defaultContentLanguageInSubdir = false
   name = "Home"
   url = "#about"
   weight = 1
+  
+[[menu.main]]
+  name = "Posts"
+  url = "#posts"
+  weight = 2
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 2
+  weight = 3
 
 # Taxonomies.
 [taxonomies]

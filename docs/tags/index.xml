@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Melinda Higgins, Ph.D</title>
-    <link>/tags/</link>
+    <link>http://melindahiggins.netlify.com/tags/</link>
     <description>Recent content in Tags on Melinda Higgins, Ph.D</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Melinda Higgins</copyright>
     <lastBuildDate>Sun, 21 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://melindahiggins.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>R</title>
-      <link>/tags/r/</link>
+      <link>http://melindahiggins.netlify.com/tags/r/</link>
       <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/r/</guid>
+      <guid>http://melindahiggins.netlify.com/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sas</title>
-      <link>/tags/sas/</link>
+      <link>http://melindahiggins.netlify.com/tags/sas/</link>
       <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/sas/</guid>
+      <guid>http://melindahiggins.netlify.com/tags/sas/</guid>
       <description></description>
     </item>
     

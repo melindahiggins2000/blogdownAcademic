@@ -11,7 +11,7 @@ tags:
   - SAS
 header:
   caption: 'r for sas users badge'
-  image: r4sas.png
+  image: r4sas25.png
 highlight: yes
 math: no
 draft: FALSE

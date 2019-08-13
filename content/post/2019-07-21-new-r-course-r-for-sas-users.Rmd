@@ -36,4 +36,8 @@ You will leave the course with coded examples and a workflow template to make yo
 
 Create an account and take the [R for SAS Users](https://www.datacamp.com/courses/r-for-sas-users) course today! You can take the first chapter for FREE but will need a subscription to complete the full course.
 
+#### Read more on R and SAS
+
+* [R-Bloggers](https://www.r-bloggers.com/) 
+* [PROX-X SAS Bloggers](http://www.proc-x.com/)
 

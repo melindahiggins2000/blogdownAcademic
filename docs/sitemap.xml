@@ -52,16 +52,6 @@
     
     <url>
     
-      <loc>http://melindahiggins.netlify.com/categories/r/</loc>
-      <lastmod>2019-08-13T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>http://melindahiggins.netlify.com/tags/r/</loc>
       <lastmod>2019-08-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -72,7 +62,7 @@
     
     <url>
     
-      <loc>http://melindahiggins.netlify.com/categories/sas/</loc>
+      <loc>http://melindahiggins.netlify.com/categories/r/</loc>
       <lastmod>2019-08-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -83,6 +73,16 @@
     <url>
     
       <loc>http://melindahiggins.netlify.com/tags/sas/</loc>
+      <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://melindahiggins.netlify.com/categories/sas/</loc>
       <lastmod>2019-08-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>

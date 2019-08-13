@@ -8,36 +8,7 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Melinda Higgins</copyright>
     <lastBuildDate>Fri, 06 Jul 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://melindahiggins.netlify.com/home/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>http://melindahiggins.netlify.com/home/about/</link>
-      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://melindahiggins.netlify.com/home/about/</guid>
-      <description>Biography Melinda Higgins is the author/creator of a Datacamp Course R for SAS Users and a Coursera Course Reproducible Templates for Analysis and Dissemination. She is a senior biostatistician and research professor in the Office of Nursing Research - School of Nursing - Emory University in Atlanta, GA (2007-current). Prior to that she was a Principal Research Scientist at the Georgia Tech Research Institute (1996-2011) and Program Manager for the $17M National Guard Bureau Technology Consortium.</description>
-    </item>
-    
-    <item>
-      <title>Recent Posts</title>
-      <link>http://melindahiggins.netlify.com/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://melindahiggins.netlify.com/home/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>http://melindahiggins.netlify.com/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://melindahiggins.netlify.com/home/contact/</guid>
-      <description></description>
-    </item>
+    <atom:link href="/home/" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

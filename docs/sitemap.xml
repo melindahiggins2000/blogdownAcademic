@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>http://melindahiggins.netlify.com/post/create-rmarkdown-document-with-sas-code-and-output-sas-engine/</loc>
+      <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://melindahiggins.netlify.com/post/new-r-course-r-for-sas-users/</loc>
       <lastmod>2019-08-13T00:00:00+00:00</lastmod>
     </url>
@@ -34,7 +43,7 @@
     <url>
     
       <loc>http://melindahiggins.netlify.com/post/</loc>
-      <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+      <lastmod>2019-10-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -52,18 +61,8 @@
     
     <url>
     
-      <loc>http://melindahiggins.netlify.com/tags/r/</loc>
-      <lastmod>2019-08-13T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>http://melindahiggins.netlify.com/categories/r/</loc>
-      <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+      <lastmod>2019-10-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -72,8 +71,28 @@
     
     <url>
     
-      <loc>http://melindahiggins.netlify.com/tags/sas/</loc>
-      <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+      <loc>http://melindahiggins.netlify.com/tags/r/</loc>
+      <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://melindahiggins.netlify.com/categories/rmarkdown/</loc>
+      <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://melindahiggins.netlify.com/tags/rmarkdown/</loc>
+      <lastmod>2019-10-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -83,7 +102,17 @@
     <url>
     
       <loc>http://melindahiggins.netlify.com/categories/sas/</loc>
-      <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+      <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://melindahiggins.netlify.com/tags/sas/</loc>
+      <lastmod>2019-10-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -93,7 +122,7 @@
     <url>
     
       <loc>http://melindahiggins.netlify.com/tags/</loc>
-      <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+      <lastmod>2019-10-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

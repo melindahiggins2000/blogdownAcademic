@@ -251,3 +251,8 @@ summary(lm(dist ~ speed, data = cars))
 
 Good luck creating documents with Rmarkdown for SAS code and output.
 
+#### Read more on R and SAS
+
+* [R-Bloggers](https://www.r-bloggers.com/) 
+* [PROC-X SAS Bloggers](http://www.proc-x.com/)
+

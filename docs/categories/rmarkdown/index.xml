@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rmarkdown on Melinda Higgins, Ph.D</title>
-    <link>http://melindahiggins.netlify.com/categories/rmarkdown/</link>
+    <link>/categories/rmarkdown/</link>
     <description>Recent content in Rmarkdown on Melinda Higgins, Ph.D</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Create Rmarkdown Document with SAS Code and Output - SAS engine</title>
-      <link>http://melindahiggins.netlify.com/post/create-rmarkdown-document-with-sas-code-and-output-sas-engine/</link>
+      <link>/post/create-rmarkdown-document-with-sas-code-and-output-sas-engine/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://melindahiggins.netlify.com/post/create-rmarkdown-document-with-sas-code-and-output-sas-engine/</guid>
+      <guid>/post/create-rmarkdown-document-with-sas-code-and-output-sas-engine/</guid>
       <description>&lt;div id=&#34;getting-started---sas-engine-for-rmarkdown&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Getting started - SAS Engine for Rmarkdown&lt;/h2&gt;
 &lt;p&gt;To get started using SAS as your statistical software/data processing “engine” take a look at the following article: &lt;a href=&#34;http://www.ssc.wisc.edu/~hemken/SASworkshops/Markdown/SASmarkdown.html&#34; class=&#34;uri&#34;&gt;http://www.ssc.wisc.edu/~hemken/SASworkshops/Markdown/SASmarkdown.html&lt;/a&gt;.&lt;/p&gt;

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Melinda Higgins, Ph.D</title>
-    <link>http://melindahiggins.netlify.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Melinda Higgins, Ph.D</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,28 +12,28 @@
     
     <item>
       <title>R</title>
-      <link>http://melindahiggins.netlify.com/tags/r/</link>
+      <link>/tags/r/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://melindahiggins.netlify.com/tags/r/</guid>
+      <guid>/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rmarkdown</title>
-      <link>http://melindahiggins.netlify.com/tags/rmarkdown/</link>
+      <link>/tags/rmarkdown/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://melindahiggins.netlify.com/tags/rmarkdown/</guid>
+      <guid>/tags/rmarkdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sas</title>
-      <link>http://melindahiggins.netlify.com/tags/sas/</link>
+      <link>/tags/sas/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://melindahiggins.netlify.com/tags/sas/</guid>
+      <guid>/tags/sas/</guid>
       <description></description>
     </item>
     

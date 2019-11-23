@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Melinda Higgins, Ph.D</title>
-    <link>http://melindahiggins.netlify.com/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Melinda Higgins, Ph.D</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,28 +11,28 @@
     
     <item>
       <title>R</title>
-      <link>http://melindahiggins.netlify.com/categories/r/</link>
+      <link>/categories/r/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://melindahiggins.netlify.com/categories/r/</guid>
+      <guid>/categories/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rmarkdown</title>
-      <link>http://melindahiggins.netlify.com/categories/rmarkdown/</link>
+      <link>/categories/rmarkdown/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://melindahiggins.netlify.com/categories/rmarkdown/</guid>
+      <guid>/categories/rmarkdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sas</title>
-      <link>http://melindahiggins.netlify.com/categories/sas/</link>
+      <link>/categories/sas/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://melindahiggins.netlify.com/categories/sas/</guid>
+      <guid>/categories/sas/</guid>
       <description></description>
     </item>
     

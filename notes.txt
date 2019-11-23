@@ -367,3 +367,21 @@ $ ^C
 
 MKHIGGI@SON-HIGGINS MINGW64 /c/MyGithub/blogdownAcademic (master)
 $
+
+
+===============================
+
+HUGO version must match in blogdown package in r for serve site to work
+
+see https://github.com/rstudio/blogdown/issues/385
+
+run 
+blogdown::hugo_version()
+[1] ‘0.59.1’
+
+blogdown::install_hugo(version = "0.41", use_brew = FALSE)
+
+check run
+blogdown::hugo_version()
+[1] ‘0.41’
+

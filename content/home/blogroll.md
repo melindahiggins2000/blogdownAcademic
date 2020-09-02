@@ -3,7 +3,7 @@
 
 title = "Blogroll"
 
-weight = 3
+weight = 129
 +++
 
 * [R Bloggers](https://www.r-bloggers.com)  

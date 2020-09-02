@@ -12,7 +12,7 @@ author_notes:
 - "Emory Healthcare"
 - "Children's Healthcare of Atlanta"
 - "Emory Healthcare"
-date: "2020-05-01T00:00:00Z"
+date: "2020-05-01"
 doi: "10.1016/j.outlook.2019.11.002"
 
 # Schedule page publish date (NOT publication's date).

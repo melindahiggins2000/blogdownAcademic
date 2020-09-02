@@ -23,7 +23,7 @@ date_end: "2020-09-04T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2020-08-27T00:00:00Z"
+publishDate: "2020-08-27"
 
 authors: [Melinda]
 tags: [reproducibility]

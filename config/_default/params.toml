@@ -43,14 +43,14 @@ site_type = "Person"
 
 # Local business type (optional)
 # If you entered "LocalBusiness" above, choose the type of business from https://schema.org/LocalBusiness#subtypes
-local_business_type = "Consulting"
+local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Melinda Higgins"
+description = ""
 
 ############################
 ## Site Features
@@ -91,7 +91,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "melinda.higgins@emory.edu"
-phone = "404-727-5180"
+phone = "404 727 5180"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -154,7 +154,7 @@ address_format = "en-us"
 ############################
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {align = "l", show_logo = true}
+main_menu = {enable = true, align = "l", show_logo = true, highlight_active_link = true, show_language = false}
 
 # Show estimated reading time for posts? (true/false)
 reading_time = true
@@ -297,3 +297,9 @@ plugins_js  = []
 [cms]
   # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
   netlify_cms = true
+
+############################
+## Icon Pack Extensions
+############################
+[icon.pack]
+  ai = false  # Academicons icon pack https://jpswalsh.github.io/academicons/

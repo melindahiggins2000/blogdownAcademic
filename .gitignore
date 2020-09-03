@@ -3,7 +3,7 @@
 
 # Hugo
 resources/
-# public/
+public/
 .Rproj.user
 
 # archived draft files

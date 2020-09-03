@@ -1,6 +1,7 @@
 [build]
 #  command = "hugo --gc --minify -b $URL --themesDir ../../"
-  command = "hugo --minify -b $URL --themesDir ../../"
+#  command = "hugo --minify -b $URL --themesDir ../../"
+  command = "git submodule update --force --recursive --init --remote && hugo --minify -b $URL?"
 #  base    = ""
   publish = "public"
 # command = "hugo"
